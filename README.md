@@ -37,7 +37,7 @@ python keylogger.py
 
 ## Output
 Logged keys are saved in:
-``` Plain text
+``` 
  keylog.txt
 ```
 
@@ -45,5 +45,5 @@ Logged keys are saved in:
 This project is intended strictly for educational purposes and authorized environments only. Unauthorized use of keyloggers is unethical and may violate laws and privacy policies.
 
 ## Author
-Manpreet Kaur, 
+Manpreet Kaur<br>
 Cyber Security Intern @ Prodigy InfoTech
